@@ -14,7 +14,7 @@ This Python-based chatbot uses Google's Gemini Pro API and sanitizes both user i
 ### 1. Clone the repo 
 
 ```bash
-git clone https://github.com/your-username/llm-sanitizer-gemini.git
+git clone https://github.com/Priyanshu10045/llm-sanitizer-gemini.git
 cd llm-sanitizer-gemini
 ```
 
