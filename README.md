@@ -1,2 +1,10 @@
-# llm-sanitizer-gemini
-This project is a secure chatbot interface built on Google’s Gemini Pro API, designed to protect large language models (LLMs) from prompt injection attacks and prevent the leakage of sensitive or inappropriate content.
+# 🛡️ LLM Input/Output Sanitizer with Gemini
+
+This Python-based chatbot uses Google's Gemini Pro API and sanitizes both user inputs and model outputs to prevent prompt injection and sensitive data leaks.
+
+## 📦 Features
+
+- ✅ Input filtering (removes injection attempts)
+- ✅ Output filtering (removes hallucinated sensitive data)
+- ✅ Command-line interface (CLI)
+- ✅ Gemini Pro integration
